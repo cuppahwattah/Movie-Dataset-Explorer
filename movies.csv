@@ -1,0 +1,301 @@
+movie_id,title,genre,year,director,rating,votes,runtime_min,language,budget_million_usd,revenue_million_usd,oscar_nominated
+1,Big Day,Action,1997,Greta Gerwig,6.7,585764,97,Spanish,53,337.8,False
+2,The Hidden Star,Fantasy,2022,James Cameron,5.8,111799,182,English,,,False
+3,The Silent City,Sci-Fi,2017,Jordan Peele,6.6,1412279,172,French,,,True
+4,The Little City,Documentary,2019,Kathryn Bigelow,7.8,524058,150,English,,,True
+5,Blue World,Romance,2004,Ava DuVernay,,424130,191,Korean,,,False
+6,The Red Heart,Fantasy,1994,Taika Waititi,6.5,718307,193,Korean,274,632.2,False
+7,The Broken House,Action,2010,Sofia Coppola,6.8,1323605,91,Spanish,,,False
+8,New Land,Animation,2015,Jordan Peele,7.2,599746,138,Hindi,,,False
+9,The Lost World,Thriller,2013,Denis Villeneuve,7.6,2070455,103,Japanese,,,True
+10,The Silent Land,Horror,2014,James Cameron,6.8,2499837,77,Korean,240,566.8,False
+11,The Silent Man,Romance,1997,Wes Anderson,5.4,1105233,204,Japanese,,,False
+12,Secret Storm,Sci-Fi,1999,Sofia Coppola,7.4,678085,157,French,277,2169.4,False
+13,The Lost Moon,Thriller,1993,Martin Scorsese,9.2,359756,107,French,,,False
+14,The Forgotten Sky,Documentary,2003,Ava DuVernay,4.4,844188,170,Spanish,,,True
+15,The Hidden Light,Action,2011,,5.9,924158,90,French,,,True
+16,The Big House,Thriller,2022,James Cameron,6.3,1168518,108,Hindi,,,False
+17,The Silent Knight,Comedy,2002,Sofia Coppola,8.0,1777117,88,English,,,False
+18,The Rising Heart,Thriller,2002,Damien Chazelle,7.7,2249845,183,English,,,False
+19,The Eternal Moon,Action,1996,Damien Chazelle,5.8,62398,117,Hindi,,,True
+20,The Iron Day,Horror,2000,Kathryn Bigelow,5.4,9540,191,Japanese,,,False
+21,The Last Knight,Thriller,1999,Wes Anderson,,2429758,155,Japanese,,,False
+22,Hidden Night,Documentary,1993,David Fincher,10.0,336511,92,Japanese,,,False
+23,Broken Woman,Fantasy,1992,Denis Villeneuve,8.6,2371233,141,Spanish,,,False
+24,Final Land,Sci-Fi,2019,,,304767,100,Spanish,,,False
+25,Dark Land,Thriller,1994,Taika Waititi,6.2,2278921,210,English,155,1297.0,False
+26,Iron King,Comedy,2006,Sofia Coppola,7.4,449441,144,Spanish,,,False
+27,Last Storm,Animation,2022,Martin Scorsese,6.8,213566,145,Korean,48,181.1,False
+28,Lost Land,Animation,2000,Sofia Coppola,9.9,2314415,94,Japanese,219,83.1,False
+29,The Silent City 3,Drama,2017,Jordan Peele,8.1,167831,138,Korean,,,False
+30,The Golden Day,Drama,2005,Damien Chazelle,7.1,743111,120,Korean,,,False
+31,Forgotten City,Drama,2007,,7.0,162922,126,Spanish,,,False
+32,The Wild City,Thriller,1991,Denis Villeneuve,6.1,1671787,92,Korean,,,False
+33,Little Day,Comedy,1991,,7.6,2435669,102,French,,,False
+34,Last Day,Comedy,2022,David Fincher,6.0,1616126,140,Japanese,,,False
+35,The Fallen Man,Horror,2013,Sofia Coppola,8.7,1385459,151,Hindi,161,1167.8,False
+36,Little House,Thriller,1998,Wes Anderson,7.7,1763979,119,English,195,1254.8,False
+37,The Broken Sky,Thriller,2008,David Fincher,5.1,1352111,188,Korean,,,False
+38,The Iron Fire,Romance,1995,Martin Scorsese,7.6,2162462,135,English,,,True
+39,Secret Night,Animation,2005,Taika Waititi,5.0,1910653,173,Korean,213,1069.4,True
+40,The New Fire,Horror,1996,Greta Gerwig,5.3,918386,87,Hindi,91,413.8,False
+41,The Rising Moon,Documentary,2019,James Cameron,8.7,1856787,189,Spanish,,,False
+42,Iron Fire,Animation,2023,Sofia Coppola,6.7,1003969,94,Japanese,,,True
+43,The Golden Land,Drama,1998,Christopher Nolan,7.1,897883,179,Spanish,,,False
+44,Dark City,Fantasy,2014,Denis Villeneuve,8.9,82422,197,Hindi,,,False
+45,The Rising Star,Thriller,2021,Jordan Peele,6.6,1631485,178,Japanese,173,1015.3,True
+46,Lost Star,Fantasy,2015,Steven Spielberg,8.4,2367731,184,Hindi,,,False
+47,Final Moon,Animation,2003,Wes Anderson,5.7,1590670,139,English,,,False
+48,Dark King,Comedy,2004,Martin Scorsese,,169354,126,Hindi,,,True
+49,Silent House,Animation,2003,Steven Spielberg,,704258,154,Japanese,,,False
+50,The Little Shadow,Thriller,2015,Jordan Peele,4.5,319252,152,English,,,False
+51,The Eternal City,Sci-Fi,2017,Damien Chazelle,8.6,53566,102,Hindi,,,False
+52,The Forgotten Day,Drama,2017,Jordan Peele,7.6,2188864,198,French,139,962.9,False
+53,The Dark Moon,Comedy,2005,Martin Scorsese,6.5,1949628,161,Hindi,292,1687.5,False
+54,The New Storm,Romance,2012,,8.3,1427984,145,English,144,871.2,False
+55,Final Man,Animation,2016,Kathryn Bigelow,5.8,1997379,79,Spanish,,,False
+56,New Woman,Animation,2013,Bong Joon-ho,6.4,2321933,183,French,,,False
+57,The Secret Heart,Thriller,2006,James Cameron,7.5,501948,130,Japanese,275,500.0,False
+58,The Iron Storm,Thriller,1996,,,1243047,120,French,,,True
+59,The Secret Moon,Documentary,1993,Martin Scorsese,,2059394,147,English,,,False
+60,Big Knight,Comedy,2020,James Cameron,,274570,93,Japanese,,,False
+61,The Forgotten Man,Thriller,1995,Denis Villeneuve,8.6,947100,190,French,,,True
+62,Rising Land,Thriller,1996,Christopher Nolan,8.4,885603,136,Hindi,136,131.3,False
+63,The Wild House,Romance,2020,David Fincher,7.9,1186306,134,Spanish,,,False
+64,Final Knight,Documentary,1997,Steven Spielberg,7.0,943419,111,Japanese,,,False
+65,Final King,Comedy,2018,Denis Villeneuve,5.6,1688743,187,Korean,140,661.9,False
+66,Wild House,Action,2006,James Cameron,7.0,383552,80,Spanish,118,844.3,False
+67,The Secret City,Animation,2023,,7.6,2455550,98,Korean,224,1562.8,True
+68,The New Knight,Sci-Fi,2000,,6.4,1727064,177,French,,,False
+69,The Last Road,Horror,1997,Jordan Peele,8.5,5327,180,Hindi,,,False
+70,Forgotten Moon,Thriller,1993,Taika Waititi,4.8,1120615,148,Japanese,,,False
+71,The Silent Dream,Romance,2000,Kathryn Bigelow,,391447,193,French,,,False
+72,The Red Road,Animation,2016,Wes Anderson,6.2,1981133,112,Korean,,,False
+73,The Iron Man,Romance,1994,Jordan Peele,7.2,1426040,75,Korean,,,False
+74,New Land 2,Animation,1999,Kathryn Bigelow,4.1,2259470,160,Spanish,,,False
+75,Secret Knight,Horror,2004,Jordan Peele,9.0,1599499,113,French,198,1345.9,True
+76,Eternal Dream,Comedy,2018,James Cameron,7.4,2206498,111,French,,,False
+77,The New Knight: Party,Comedy,2015,Taika Waititi,8.4,2238674,199,French,,,False
+78,Iron Storm,Horror,1995,James Cameron,4.6,413400,117,English,,,False
+79,The Rising Light,Sci-Fi,2012,Denis Villeneuve,5.9,1728770,118,Japanese,290,1971.6,False
+80,The Forgotten Heart,Fantasy,2021,David Fincher,7.2,600779,140,Hindi,,,False
+81,Forgotten Man,Comedy,2000,Denis Villeneuve,5.6,2464954,139,Hindi,154,1261.1,True
+82,Dark Night,Horror,2005,,7.3,2399317,150,Korean,184,501.6,True
+83,The Lost Shadow,Romance,2021,Taika Waititi,7.0,1478241,139,English,113,210.1,False
+84,Golden Day,Action,2018,Martin Scorsese,5.8,2431408,150,Japanese,187,257.6,False
+85,The Silent Star,Documentary,2023,Martin Scorsese,9.1,1078310,161,Spanish,,,False
+86,The Forgotten City,Comedy,2013,Taika Waititi,,1655465,106,French,,,False
+87,The Forgotten Man: Least,Comedy,2013,Christopher Nolan,6.1,2355213,91,English,168,355.4,False
+88,The Blue Land,Comedy,2021,Kathryn Bigelow,,408152,191,Korean,121,170.9,False
+89,The Forgotten Fire,Comedy,2016,Greta Gerwig,7.8,1173815,188,Korean,17,56.8,False
+90,The Forgotten Light,Action,2012,Taika Waititi,,1670418,106,Korean,,,True
+91,The Big Road,Sci-Fi,1993,Ava DuVernay,6.8,2368511,128,French,,,False
+92,Silent Storm,Romance,1990,Sofia Coppola,7.5,607365,119,Spanish,67,157.8,False
+93,The Secret Star,Drama,1991,,6.7,1766136,91,Japanese,,,True
+94,The Iron Star,Documentary,2018,Christopher Nolan,,929747,208,English,23,154.6,False
+95,Little Dream,Horror,2015,Steven Spielberg,6.2,1860935,157,Japanese,,,False
+96,Little Day 4,Fantasy,2014,Taika Waititi,5.3,2225816,204,Japanese,,,False
+97,Golden Day: Any,Animation,2017,Martin Scorsese,7.9,1902612,99,Korean,,,False
+98,The Blue Dream,Comedy,1994,Jordan Peele,5.9,358544,99,Japanese,,,False
+99,The Blue Shadow,Horror,1997,Ava DuVernay,5.5,1774425,154,Spanish,,,False
+100,Wild House: Skin,Comedy,2004,Wes Anderson,8.4,1468984,104,Japanese,,,True
+101,The Rising Dream,Action,2007,Denis Villeneuve,7.7,1296475,76,English,,,False
+102,Forgotten Woman,Comedy,1991,Steven Spielberg,8.8,2225505,182,Korean,,,False
+103,The Eternal Moon: Difference,Action,1995,Ava DuVernay,8.1,209219,188,Japanese,,,True
+104,Fallen Man,Horror,2012,Denis Villeneuve,8.7,465605,199,Japanese,146,856.1,True
+105,The Silent Storm,Thriller,1990,Denis Villeneuve,6.5,576104,158,Spanish,,,False
+106,The Final Night,Documentary,2014,Christopher Nolan,7.7,965654,165,Hindi,257,1833.3,True
+107,Silent Night,Comedy,2019,Sofia Coppola,8.0,2405512,149,Spanish,208,1154.2,False
+108,The Big Night,Comedy,2013,Denis Villeneuve,5.4,1832201,186,French,,,False
+109,Blue Dream,Sci-Fi,2004,Martin Scorsese,6.9,478762,164,French,272,514.1,False
+110,The Forgotten House,Fantasy,2001,Bong Joon-ho,6.3,641682,201,Korean,,,False
+111,The Final Man,Drama,2010,Christopher Nolan,5.3,1270620,204,English,141,107.2,False
+112,The Big Land,Comedy,2008,Kathryn Bigelow,7.4,379230,193,English,,,False
+113,The Final Sky,Sci-Fi,2002,Christopher Nolan,5.5,260017,162,Spanish,,,False
+114,The Iron Night,Documentary,2018,Sofia Coppola,5.8,2193064,170,Korean,,,True
+115,The Golden Light,Comedy,2011,Martin Scorsese,5.9,1621867,113,French,,,False
+116,The Golden Dream,Drama,2015,Damien Chazelle,8.4,2496283,171,Korean,,,True
+117,The Broken Fire,Documentary,2017,Martin Scorsese,5.9,756577,199,English,,,False
+118,The Little Dream,Documentary,1996,Martin Scorsese,7.8,2264462,161,Spanish,,,False
+119,Hidden Land,Animation,2000,James Cameron,8.1,996773,189,Hindi,228,601.1,False
+120,The Fallen Sky,Fantasy,2013,Martin Scorsese,7.2,1848499,172,Spanish,,,False
+121,The Iron Light,Action,2006,Steven Spielberg,5.0,2326412,106,Hindi,53,383.5,False
+122,Eternal Knight,Comedy,2017,Sofia Coppola,4.6,931794,81,Spanish,,,False
+123,The Last Man,Sci-Fi,1995,Bong Joon-ho,7.0,416084,110,Korean,,,False
+124,The Broken Dream,Animation,2020,Kathryn Bigelow,8.0,22525,140,Japanese,,,False
+125,The Final Shadow,Romance,1997,Bong Joon-ho,6.9,1000587,192,Japanese,215,1464.1,True
+126,Dark King 2,Fantasy,2022,Taika Waititi,7.5,1015262,184,Korean,,,True
+127,The Last Night,Sci-Fi,2023,Steven Spielberg,8.4,2128386,195,Korean,260,121.4,True
+128,Big Woman,Comedy,2012,Sofia Coppola,7.5,1446706,101,Japanese,124,705.3,False
+129,Last Man,Animation,2001,James Cameron,8.4,765029,192,Spanish,,,True
+130,Broken Man,Romance,2010,James Cameron,6.6,2162175,84,English,204,853.1,False
+131,The Rising Moon: Contain,Comedy,2007,James Cameron,7.3,1678312,161,Japanese,,,False
+132,New Man,Horror,1995,Greta Gerwig,5.4,331543,121,French,221,1869.6,False
+133,The Blue King,Animation,2009,Steven Spielberg,5.6,1862386,85,Korean,,,True
+134,The Lost King,Horror,1994,,5.9,1524337,82,English,263,1544.1,False
+135,Forgotten City 4,Thriller,1994,Martin Scorsese,7.0,1606307,114,Japanese,,,False
+136,The Rising Moon 2,Sci-Fi,2015,Steven Spielberg,5.5,1169409,81,French,,,False
+137,Final Star,Fantasy,2003,Kathryn Bigelow,6.1,2060742,109,Hindi,,,True
+138,The Rising World,Sci-Fi,2010,Wes Anderson,,272874,151,Spanish,282,756.0,True
+139,Little Light,Drama,2002,Denis Villeneuve,6.9,1514209,108,Korean,284,944.3,False
+140,The Golden Light 3,Horror,2023,Martin Scorsese,,1717788,107,Japanese,,,False
+141,Rising World,Horror,1998,Kathryn Bigelow,4.0,521269,152,Spanish,,,False
+142,The Lost Man,Romance,2023,Greta Gerwig,6.7,331262,145,Japanese,,,False
+143,The Final Knight,Drama,1999,James Cameron,5.6,1416579,82,Japanese,,,False
+144,Iron Moon,Fantasy,2003,James Cameron,4.9,1747791,149,Korean,,,False
+145,The Broken Woman,Animation,2009,Sofia Coppola,7.2,1844339,193,Korean,,,False
+146,Hidden Star,Horror,2012,Bong Joon-ho,7.0,548972,156,Spanish,190,932.1,False
+147,Big Woman: Billion,Action,1996,Wes Anderson,6.5,1754284,158,Hindi,,,False
+148,Forgotten Fire,Animation,2009,Sofia Coppola,8.1,97708,204,English,,,True
+149,The Eternal Dream,Animation,2008,Kathryn Bigelow,,1974284,102,French,147,54.0,False
+150,New Man 4,Action,2013,Steven Spielberg,5.3,1680661,167,Japanese,27,132.5,True
+151,The Broken King,Comedy,1998,Wes Anderson,4.8,1422726,111,English,,,True
+152,The Lost Woman,Drama,1992,Sofia Coppola,8.3,1397373,206,Spanish,243,983.5,False
+153,Dark City: Relationship,Fantasy,2009,Denis Villeneuve,5.4,2233295,196,Japanese,251,1233.9,False
+154,The Last House,Fantasy,1991,Wes Anderson,9.1,1991075,133,Korean,136,913.9,False
+155,Golden Day 3,Thriller,1999,Wes Anderson,10.0,461435,187,Japanese,,,False
+156,Fallen Night,Drama,1993,Martin Scorsese,7.5,2176015,197,Hindi,107,317.3,False
+157,The Iron Road,Romance,2012,Bong Joon-ho,6.1,1034476,151,French,143,392.9,False
+158,The Red City,Documentary,2012,James Cameron,6.2,1147464,172,Spanish,,,False
+159,The New Heart,Romance,1992,Kathryn Bigelow,7.3,1855959,126,French,132,558.2,False
+160,The Fallen Fire,Fantasy,1996,Christopher Nolan,6.6,2461845,87,English,,,False
+161,The Secret Moon 3,Animation,2011,Sofia Coppola,,22232,179,French,,,True
+162,The Rising Day,Fantasy,1995,Martin Scorsese,8.2,974502,84,English,274,1706.9,False
+163,Big King,Drama,2021,Sofia Coppola,10.0,1214612,151,French,,,False
+164,Broken Shadow,Animation,2023,Kathryn Bigelow,5.4,563375,144,Hindi,,,False
+165,Eternal Sky,Action,2001,Denis Villeneuve,6.6,2381947,178,Korean,,,True
+166,Wild Night,Drama,2001,James Cameron,4.3,2003087,76,French,,,False
+167,Forgotten Man 4,Fantasy,2009,James Cameron,6.8,1508570,105,French,,,True
+168,The Lost Star,Sci-Fi,2008,Jordan Peele,6.6,926808,197,French,,,False
+169,Final House,Documentary,2020,Damien Chazelle,,1038445,167,Japanese,42,166.5,False
+170,The Broken House 3,Drama,1999,James Cameron,4.3,1376725,104,English,,,False
+171,The Red Heart 4,Documentary,1998,Greta Gerwig,5.2,2344265,80,English,237,1639.3,False
+172,The Last Man 4,Comedy,2012,Kathryn Bigelow,7.7,2270304,195,Korean,,,False
+173,Blue Shadow,Horror,2013,Wes Anderson,3.8,1583834,109,Hindi,,,False
+174,The New Night,Action,2004,Ava DuVernay,7.8,95858,183,Hindi,,,False
+175,Hidden Road,Romance,1999,Jordan Peele,7.9,473804,79,English,17,63.5,False
+176,The New Road,Thriller,1993,James Cameron,,186042,134,English,,,False
+177,The Hidden Man,Romance,2022,Taika Waititi,7.1,2416881,157,Japanese,164,853.3,False
+178,The Eternal Land,Romance,2016,Sofia Coppola,9.9,1154579,119,Korean,32,258.5,False
+179,Hidden Fire,Sci-Fi,2023,Kathryn Bigelow,6.3,1258323,196,Spanish,,,False
+180,Hidden Heart,Documentary,1993,Taika Waititi,5.4,1731394,174,English,214,994.2,False
+181,The Final Road,Comedy,2013,Jordan Peele,4.2,216660,85,Korean,,,False
+182,The Broken Shadow,Thriller,2020,James Cameron,6.2,1397053,129,Hindi,,,False
+183,Iron Heart,Horror,2003,David Fincher,8.3,1187736,166,Hindi,,,False
+184,The Eternal Knight,Animation,1996,,,1343655,155,Korean,,,False
+185,Golden Fire,Romance,1991,Damien Chazelle,,1751949,125,Spanish,,,False
+186,Blue World 2,Romance,2011,David Fincher,6.2,2049925,118,Japanese,,,True
+187,The Hidden Light: Record,Action,2023,Wes Anderson,7.1,203984,110,Hindi,,,False
+188,The New Land,Fantasy,1993,Christopher Nolan,6.3,2027205,76,Japanese,,,False
+189,Fallen Dream,Action,2008,Jordan Peele,4.6,1806454,99,Japanese,,,False
+190,Forgotten House,Romance,2012,Kathryn Bigelow,6.8,1665204,178,Spanish,,,False
+191,The Rising Light: Lose,Action,1995,James Cameron,,2318697,77,French,,,True
+192,The Wild Knight,Action,2023,Taika Waititi,7.6,964210,196,French,109,826.0,True
+193,Rising House,Sci-Fi,2001,Damien Chazelle,7.7,605283,151,Hindi,,,False
+194,Silent Day,Drama,2014,Greta Gerwig,6.9,329449,88,French,257,2130.4,False
+195,The New Night 4,Action,2010,,5.2,1890244,166,English,,,False
+196,Lost Night,Comedy,2005,Greta Gerwig,5.0,344592,172,English,,,True
+197,The Forgotten Land,Animation,2009,Denis Villeneuve,6.1,556274,185,English,,,True
+198,Red Storm,Sci-Fi,1995,Denis Villeneuve,,2325066,158,English,48,249.8,False
+199,Lost Light,Drama,2023,Steven Spielberg,6.5,1128427,201,Hindi,,,False
+200,Little King,Comedy,2020,Greta Gerwig,6.0,1515167,201,Spanish,,,False
+201,Little Dream 4,Horror,1990,Ava DuVernay,5.8,1382698,185,Hindi,,,False
+202,Big Fire,Horror,2001,Steven Spielberg,8.5,1339060,200,Hindi,150,899.8,False
+203,The Broken Star,Fantasy,1997,Damien Chazelle,8.3,755169,193,Korean,,,True
+204,The Lost Day,Animation,2016,Greta Gerwig,10.0,584259,139,Hindi,,,False
+205,The New King,Documentary,2015,Greta Gerwig,,1754980,167,English,,,False
+206,Golden Day: Rise,Drama,2012,Ava DuVernay,,186293,177,Japanese,289,1692.2,False
+207,Dark Moon,Sci-Fi,2018,Denis Villeneuve,4.9,2469225,163,English,,,True
+208,Fallen Moon,Sci-Fi,1999,Greta Gerwig,8.3,1308662,127,Hindi,,,False
+209,The Rising Fire,Comedy,2010,Wes Anderson,6.0,483202,102,Spanish,,,False
+210,The Red Storm,Animation,2017,David Fincher,9.2,972972,185,Spanish,208,377.0,False
+211,Blue Woman,Horror,2017,,7.8,1167962,122,French,33,37.4,False
+212,Forgotten King,Sci-Fi,2023,Taika Waititi,6.8,1630571,165,Korean,201,248.6,False
+213,The Fallen Night,Drama,1995,Martin Scorsese,6.4,491019,111,Japanese,,,False
+214,The New World,Drama,2017,,7.8,2041742,119,Spanish,276,2163.0,False
+215,The Red Land,Fantasy,2018,Bong Joon-ho,8.0,40695,124,Hindi,,,False
+216,Hidden Man,Animation,2016,Ava DuVernay,,2050254,82,Japanese,,,False
+217,The Wild Land,Animation,2000,Sofia Coppola,4.6,2077994,104,Japanese,282,346.4,True
+218,The Iron Knight,Documentary,2018,Sofia Coppola,5.8,917131,138,English,,,False
+219,The Broken Road,Thriller,1997,Jordan Peele,,1471152,110,French,,,False
+220,The Silent Dream 2,Sci-Fi,2000,Steven Spielberg,9.0,1227898,206,Korean,149,371.3,False
+221,The Big Heart,Thriller,1998,Denis Villeneuve,7.5,1038819,111,Hindi,,,True
+222,Forgotten Moon: Site,Horror,1995,James Cameron,7.8,2163139,169,Korean,143,1140.8,True
+223,Secret Heart,Sci-Fi,2019,Steven Spielberg,8.3,1668641,129,French,,,False
+224,The Dark Shadow,Sci-Fi,2021,Martin Scorsese,4.8,203543,192,Hindi,,,False
+225,Final City,Horror,1990,,,553783,145,Korean,,,False
+226,Silent Storm: Tree,Horror,1993,,8.8,1281898,98,Spanish,,,False
+227,Hidden Night 2,Action,1990,Sofia Coppola,5.9,1771813,93,French,,,False
+228,The Big Storm,Horror,1998,Martin Scorsese,4.4,558955,210,Hindi,,,False
+229,The Lost Shadow: Card,Drama,2003,Denis Villeneuve,8.5,1855992,100,French,,,False
+230,Dark Man,Romance,2005,Jordan Peele,5.9,353864,147,Japanese,128,669.2,False
+231,The Hidden Moon,Romance,2015,Greta Gerwig,5.3,1004369,103,Japanese,,,True
+232,Secret Light,Sci-Fi,2013,Greta Gerwig,4.9,554076,119,English,199,746.5,False
+233,The Eternal Day,Action,2003,Greta Gerwig,9.8,1669728,203,Korean,,,False
+234,New Woman 4,Comedy,2007,Taika Waititi,,1300343,114,Korean,41,321.9,True
+235,The Silent Star: Student,Horror,2009,Taika Waititi,6.5,243375,186,Korean,,,False
+236,The Blue Sky,Action,1997,Damien Chazelle,4.1,576007,202,Korean,,,False
+237,The Eternal Heart,Sci-Fi,2000,Steven Spielberg,8.5,1127779,160,Korean,,,True
+238,Big World,Animation,2021,Steven Spielberg,8.5,2142874,202,English,,,True
+239,The Blue Night,Documentary,2004,Martin Scorsese,9.6,52039,195,English,,,False
+240,Big City,Sci-Fi,2004,Taika Waititi,6.8,1041791,94,English,214,625.6,False
+241,The Golden Light: Network,Documentary,2004,Ava DuVernay,10.0,289598,154,French,,,False
+242,The Lost Storm,Animation,2005,Christopher Nolan,6.4,1545151,137,Spanish,,,False
+243,The Hidden Day,Sci-Fi,1990,Christopher Nolan,8.8,1290293,210,Spanish,,,False
+244,The Forgotten Light 4,Action,1995,Damien Chazelle,6.8,971366,170,Hindi,,,True
+245,The Golden Woman,Horror,1993,Ava DuVernay,,1223877,175,English,,,False
+246,Forgotten Star,Fantasy,1998,Greta Gerwig,6.2,457565,117,Japanese,,,False
+247,Little Knight,Animation,2003,Damien Chazelle,6.4,503453,152,French,,,False
+248,Wild World,Thriller,1995,,7.8,1492593,151,Hindi,203,142.4,False
+249,The Lost Road,Animation,1996,Sofia Coppola,8.8,509911,131,Korean,,,True
+250,The Lost Light,Comedy,2006,,8.3,91936,188,French,,,True
+251,Red Day,Animation,1992,Ava DuVernay,9.8,1817289,82,Spanish,,,False
+252,The Iron Moon,Animation,2007,Wes Anderson,7.8,623905,137,Hindi,18,96.8,True
+253,The Red City 3,Romance,1995,David Fincher,5.7,2205924,79,Japanese,128,1081.8,False
+254,Dark Heart,Romance,2014,Bong Joon-ho,7.8,754702,131,Japanese,,,False
+255,Big Night,Drama,2004,Damien Chazelle,8.5,1118395,131,Spanish,274,207.8,False
+256,Big House,Fantasy,2005,Ava DuVernay,8.0,1334306,165,Hindi,184,97.8,False
+257,The Little Road,Animation,2001,Sofia Coppola,7.3,918251,159,Korean,11,46.4,False
+258,The Silent Sky,Action,2010,Greta Gerwig,6.9,92409,111,French,76,462.0,False
+259,The Rising Land,Sci-Fi,1996,David Fincher,6.6,661119,156,Japanese,224,1831.7,False
+260,The Lost World 4,Fantasy,2004,Denis Villeneuve,7.5,735978,150,Japanese,,,True
+261,The Lost Woman: Seek,Fantasy,2001,Sofia Coppola,5.7,927001,202,Spanish,,,True
+262,Final City: Article,Animation,2011,Christopher Nolan,9.1,48296,138,English,,,False
+263,The Silent Moon,Horror,2018,Jordan Peele,9.7,2068635,171,Korean,,,False
+264,The Golden Heart,Animation,2000,Greta Gerwig,6.2,309659,80,French,,,False
+265,The Dark Day,Drama,2014,Martin Scorsese,6.6,391009,198,Japanese,174,1458.0,False
+266,The Eternal Land 3,Action,2000,Taika Waititi,5.0,425206,123,French,,,False
+267,Dark Day,Comedy,2005,Damien Chazelle,8.5,2059686,167,Korean,,,False
+268,The Final Moon,Comedy,2002,Steven Spielberg,7.4,108443,149,Hindi,,,False
+269,Rising Star,Romance,2021,Bong Joon-ho,8.3,775948,169,Hindi,,,False
+270,The Final City,Romance,2004,Denis Villeneuve,7.8,2367121,99,Japanese,,,False
+271,Iron Light,Horror,1993,Damien Chazelle,7.4,2246610,196,Korean,244,1837.2,True
+272,Silent Star,Fantasy,2022,Martin Scorsese,5.5,2168189,112,Spanish,293,2449.1,False
+273,Golden Light,Action,1998,Wes Anderson,3.1,1826671,141,Hindi,104,157.3,False
+274,The Eternal Shadow,Documentary,2007,Martin Scorsese,8.7,1922150,208,Japanese,7,37.9,True
+275,The Red Moon,Fantasy,1996,Bong Joon-ho,7.3,2247109,142,English,,,False
+276,Golden Fire: Tell,Horror,2007,Steven Spielberg,4.4,603861,176,French,,,True
+277,Forgotten Woman: Room,Romance,2011,Taika Waititi,5.8,412453,151,English,,,False
+278,Fallen World,Thriller,2018,Kathryn Bigelow,9.3,1708296,89,Japanese,249,1845.3,False
+279,Last Star,Documentary,1998,Sofia Coppola,7.0,809008,138,Korean,,,False
+280,Dark Fire,Sci-Fi,2007,Jordan Peele,6.6,1947573,106,Hindi,,,False
+281,Red Knight,Fantasy,2020,Jordan Peele,5.6,1085398,82,Spanish,,,False
+282,The Secret Dream,Thriller,2004,Jordan Peele,6.4,1129118,77,English,210,97.5,False
+283,Forgotten Heart,Fantasy,2006,Steven Spielberg,7.2,1155521,164,Korean,,,False
+284,The Iron Shadow,Action,1996,Sofia Coppola,5.7,2145944,147,French,192,1076.8,False
+285,The Hidden Knight,Romance,2007,James Cameron,4.9,1253720,207,Japanese,,,False
+286,Eternal Night,Drama,2010,Christopher Nolan,3.9,107267,141,Japanese,,,False
+287,New World,Thriller,2011,Bong Joon-ho,6.0,1995878,118,Spanish,184,508.1,False
+288,The Iron Day: Entire,Sci-Fi,2001,Steven Spielberg,5.0,375050,132,Japanese,,,False
+289,The Fallen Shadow,Comedy,2019,Denis Villeneuve,4.0,2448189,124,Japanese,298,263.4,False
+290,The Eternal House,Action,2016,Bong Joon-ho,7.3,632910,162,Spanish,,,False
+291,The Wild Road,Comedy,2001,Martin Scorsese,4.8,742154,190,Japanese,161,124.9,False
+292,Secret Night 4,Comedy,2021,,7.0,543267,184,English,223,852.1,False
+293,Lost Shadow,Thriller,2023,Jordan Peele,6.9,1044139,154,French,116,869.0,False
+294,Little Sky,Action,1994,David Fincher,6.8,1251250,208,Korean,,,False
+295,The Lost Road 2,Animation,2011,Greta Gerwig,6.2,1692447,132,French,,,True
+296,The Dark Knight,Romance,2014,Denis Villeneuve,7.5,2243334,102,Hindi,25,211.4,False
+297,Silent Sky,Documentary,1997,Jordan Peele,6.8,862408,182,Korean,,,False
+298,Silent Moon,Comedy,2016,Ava DuVernay,9.0,2146242,104,French,,,False
+299,Hidden Storm,Horror,2012,Greta Gerwig,6.7,2082362,159,English,107,850.8,False
+300,The Hidden Star: Fall,Comedy,1999,Bong Joon-ho,7.2,2146747,140,English,39,243.1,True
